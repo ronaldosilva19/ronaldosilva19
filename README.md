@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
  
-- 🌱 I’m currently learning ... Competitive Programming with C++, Linux - LPI.
+### - 🌱 I’m currently learning ... Competitive Programming with C++, Linux - LPI.
 - ⚡ Fun fact: ...
 -->

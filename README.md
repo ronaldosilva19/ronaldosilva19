@@ -2,4 +2,4 @@
 ### My name is Ronaldo Silva.
 
  
-* - 🌱 I’m currently learning ... Competitive Programming with C++, Linux - LPI.
+* 🌱 I’m currently learning ... Competitive Programming with C++, Linux - LPI.

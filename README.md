@@ -8,5 +8,5 @@
           
           
  * Areas of interest:
- * Games, Data Structure, Information Technology, Linux, Mathematic, IoT.
+ * Games, Competitive Programming, Data Structure, Information Technology, Linux, Mathematic, IoT.
  
